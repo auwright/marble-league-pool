@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoopness - NCAA Basketball Pool Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hoopness</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#login">Log-in</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#sample-reports">Sample Reports</a></li>
+                <li><a href="#sample-entry">Sample Entry</a></li>
+                <li><a href="#demos">Demos</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#register">Register</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="#help">Help/FAQ</a></li>
+                <li><a href="#new">New this year</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Welcome to Hoopness</h2>
+            <p>Your ultimate NCAA Basketball Pool Management System.</p>
+        </section>
+        <!-- Additional sections for each menu item -->
+    </main>
+    <footer>
+        <p>&copy; 2025 Hoopness. Celebrating year 27 on the web!</p>
+    </footer>
+</body>
+</html>
